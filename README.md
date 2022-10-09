@@ -13,7 +13,7 @@ betoncia creates a new file on ScientificProgrammingPractices repository
 
 3. **Each collaborator creates a new brand**:
 4. **Each collaborator creates an individual story**
-5. **Each collaboartor pulls request and merges their new branch with the mai branch**
+5. **Each collaboartor pulls request and merges their new branch with the main branch**
 
 ### **betoncia**:
  - create collaboratorbet_story
