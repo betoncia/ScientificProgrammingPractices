@@ -19,10 +19,10 @@ betoncia creates a new file on ScientificProgrammingPractices repository
  create collaboratorbet_story
  Merge pull request #2 from betoncia/collaboratorBet_branch
  
- ### **lauragala**
+ ### **lauragala**:
  create collaboratorolga_story
  Merge pull request #1 from betoncia/collaboratorlga_branch
  
- ### **pablovabo**
+ ### **pablovabo**:
  create collaboratorpvb_story
  
