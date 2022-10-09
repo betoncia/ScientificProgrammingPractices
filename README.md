@@ -37,6 +37,7 @@ betoncia creates a new file on ScientificProgrammingPractices repository
  
  ### **lauragala**:
  - update group_story
+ - Merge branch 'main' into collaboratororlga_branch
  - Merge pull request #4 from betoncia/collaboratorlga_branch
  
  ### **pablovabo**:
