@@ -16,14 +16,17 @@ betoncia creates a new file on ScientificProgrammingPractices repository
 5. **Each collaborator pulls request and merges their new branch with the main branch**
 
 ### **betoncia**:
+ - create collaboratorbet_branch
  - create collaboratorbet_story
  - Merge pull request #2 from betoncia/collaboratorBet_branch
  
  ### **lauragala**:
+ - collaboratorlga_branch
  - create collaboratorolga_story
  - Merge pull request #1 from betoncia/collaboratorlga_branch
  
  ### **pablovabo**:
+ - collaboratorpvb_branch
  - create collaboratorpvb_story
  - Merge pull request #3 from betoncia/collaboratorpvb_branch
  
