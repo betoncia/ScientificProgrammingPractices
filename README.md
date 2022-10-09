@@ -16,3 +16,7 @@ betoncia creates a new file on ScientificProgrammingPractices repository
 **betoncia**:
  create a  Collaboratorbet_story
  
+ **lauragala**
+ 
+ **pablovabo**
+ 
