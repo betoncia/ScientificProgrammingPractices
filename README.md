@@ -14,9 +14,13 @@ betoncia creates a new file on ScientificProgrammingPractices repository
 3. **Each collaborator create a new brand**:
 
 **betoncia**:
- create a  Collaboratorbet_story
+ create collaboratorbet_story
+ Merge pull request #2 from betoncia/collaboratorBet_branch
  
  **lauragala**
+ create collaboratorolga_story
+ Merge pull request #1 from betoncia/collaboratorlga_branch
  
  **pablovabo**
+ create collaboratorpvb_story
  
