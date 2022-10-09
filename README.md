@@ -25,4 +25,5 @@ betoncia creates a new file on ScientificProgrammingPractices repository
  
  ### **pablovabo**:
  create collaboratorpvb_story
+ Merge pull request #1 from betoncia/collaboratorpvb_branch
  
