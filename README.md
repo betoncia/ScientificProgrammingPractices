@@ -15,14 +15,14 @@ betoncia creates a new file on ScientificProgrammingPractices repository
 4. **Each collaborator creates an individual story**
 5. **Each collaboartor pulls request and merges their new branch with the mai branch**
 
-**betoncia**:
+###**betoncia**:
  create collaboratorbet_story
  Merge pull request #2 from betoncia/collaboratorBet_branch
  
- **lauragala**
+ ###**lauragala**
  create collaboratorolga_story
  Merge pull request #1 from betoncia/collaboratorlga_branch
  
- **pablovabo**
+ ###**pablovabo**
  create collaboratorpvb_story
  
